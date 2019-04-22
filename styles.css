@@ -1,16 +1,7 @@
-@font-face {
-    font-family: 'bahnschrift';
-    src: url('fonts/BAHNSCHRIFT.TTF');
-}
-
 body {
   height: 100vh;
   width: 100vw;
   background-color: black;
-}
-
-* {
-  font-family: 'bahnschrift';
 }
 
 .logo {
@@ -18,17 +9,7 @@ body {
   width: 15%;
 
   margin-top: 15%;
-  margin-bottom: .5%;
-}
-
-.logo-text {
-  color: white;
-  font-size: 65%;
-
   margin-bottom: 15%;
-
-  letter-spacing: 14px;
-  font-weight: 600;
 }
 
 .email_input {
