@@ -37,14 +37,20 @@ body {
   background-color: black;
   text-align: center;
   border: none;
-  font-weight: 100;
+  font-weight: 300;
+  font-family: 'Oswald', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 3px;
 }
 
 .email_input:active,
 .email_input:focus {
   background-color: black;
   color: #fff;
-  font-weight: 100;
+  font-weight: 300;
+  font-family: 'Oswald', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 3px;
 }
 
 .email_input::placeholder {
@@ -52,7 +58,10 @@ body {
   text-align: center;
 
   font-size: 25px;
-  font-weight: 100;
+  font-weight: 300;
+  font-family: 'Oswald', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 3px;
 }
 
 @media and screen (max-width: 560px) {
