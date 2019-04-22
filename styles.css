@@ -4,6 +4,10 @@ body {
   background-color: black;
 }
 
+*:focus {
+  outline: none;
+}
+
 .logo {
   height: 15%;
   width: 15%;
