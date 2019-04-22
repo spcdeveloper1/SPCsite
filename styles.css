@@ -19,6 +19,8 @@ body {
   font-family: 'Oswald', sans-serif;
   text-transform: uppercase;
   letter-spacing: 3px;
+
+  margin-top: -10%;
 }
 
 .email_input:active,
@@ -35,7 +37,7 @@ body {
   color: #fff;
   text-align: center;
 
-  font-size: 25px;
+  font-size: 22px;
   font-weight: 300;
   font-family: 'Oswald', sans-serif;
   text-transform: uppercase;
